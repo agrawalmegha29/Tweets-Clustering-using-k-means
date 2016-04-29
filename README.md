@@ -6,7 +6,7 @@ very similar to each other and can be clustered together. By clustering similar 
 together, we can generate a more concise and organized representation of the raw tweets,
 which will be very useful for many Twitter-based applications (e.g., truth discovery, trend
 analysis, search ranking, etc.)
-In this assignment, you will learn how to cluster tweets by utilizing Jaccard Distance metric
+In this repository, I have written the code for clustering the tweets by utilizing Jaccard Distance metric
 and K-means clustering algorithm.
 Objectives:
 · Compute the similarity between tweets using the Jaccard Distance metric.
